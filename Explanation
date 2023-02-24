@@ -1,0 +1,4 @@
+The reason for the circuit to be valid for all kinds of numbers is beacuse we are converting each string to its 
+binary representation. The quantum circuit is utilised only when both the numbers are positive or negative. The first case where both numbers have 
+different signs is handled classically. For the case where both numbers have the same sign we are performing a Quantum Bit String Comparator circuit 
+and performing a full subtraction. Each loop of the circuit has 4 qubits to it. One for each carryin, number 1, number 2 and carryout. 
