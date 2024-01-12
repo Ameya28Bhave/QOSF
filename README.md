@@ -1,15 +1,13 @@
 # QOSF
 Repo created for the QOSF Submission of the Task
 
-The “Task1_Final.ipynb” contains the code for Task 1 : find the largest number. 
+The “Task4.ipynb” contains the code for Task 4 : find the largest number. 
 
 Execution Steps:
-1.	Run the Task1_Final.ipynb
-
-NOTE : At the bottom of the code we call the function “find_the_largest_number” and give input parameters . For Example : A = find_the_largest_number(11,10)
-
+1.	Run the Task4.ipynb
+   
 Below are the packages used and their versions
 
-: python - 3.9.15 
+: python - 3.9.18
 
-: qiskit - 0.39.5
+: qiskit - 0.42.1
